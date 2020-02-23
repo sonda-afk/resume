@@ -1739,7 +1739,14 @@ header.header-3d{
 	font-family: 'Playfair Display', serif;
 	text-transform: none;
 }
-.project-mind .btn-large-1 {
+.project-mind .
+
+
+
+
+
+
+{
 	border-radius: 60px;
 	background: #032973 !important;
 	border-color: #032973 !important;
@@ -1921,7 +1928,7 @@ header.header-3d{
 	color: #fff;
 	font-weight: bold;
 	background: #443a8b;
-	padding: 15px 50px;
+	padding: 14px 10px;
 	text-transform: uppercase;
 }
 .btn-large-1:hover {
